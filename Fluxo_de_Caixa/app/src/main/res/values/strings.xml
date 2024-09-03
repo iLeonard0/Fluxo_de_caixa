@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fluxo_de_caixa</string>
+    <string name="tipo">Tipo:</string>
+    <string name="detalhe">Detalhe:</string>
+    <string name="valor">Valor:</string>
+    <string name="digite_o_valor">Digite o valor</string>
+    <string name="data">Data:</string>
+    <string name="digite_a_data_lancamento">Digite a data de lançamento</string>
+    <string name="lancar">Lançar</string>
+    <string name="lancamentos">Lançamentos</string>
+    <string name="saldo">Saldo</string>
+
+        <string-array name="tipos">
+            <item>Crédito</item>
+            <item>Débito</item>
+        </string-array>
+        <string-array name="categorias_credito">
+            <item>Salário</item>
+            <item>Extras</item>
+        </string-array>
+        <string-array name="categorias_debito">
+            <item>Alimentação</item>
+            <item>Transporte</item>
+            <item>Saúde</item>
+            <item>Moradia</item>
+        </string-array>
+
+</resources>

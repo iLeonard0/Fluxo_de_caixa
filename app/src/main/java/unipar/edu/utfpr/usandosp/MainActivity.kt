@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         ligado = sharedPreference.getBoolean(FIELD, false)
 
-        
+
 
         if(ligado){
             imageView.setImageResource(android.R.drawable.star_big_on)
